@@ -1,0 +1,13 @@
+Install the following NPM Packages with
+
+npm install <package name>
+
+Packages:
+
+express
+express-session
+mysql
+passport
+passport-local
+bcrypt
+html-to-text
